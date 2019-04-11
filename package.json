@@ -1,0 +1,26 @@
+{
+  "name": "ebay_product_search",
+  "version": "1.0.0",
+  "description": "ebay product search",
+  "main": "angular-app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KruthiMallik/ebay-product-search.git"
+  },
+  "keywords": [
+    "ebay"
+  ],
+  "author": "Kruthi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KruthiMallik/ebay-product-search/issues"
+  },
+  "homepage": "https://github.com/KruthiMallik/ebay-product-search#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "request": "^2.88.0"
+  }
+}
